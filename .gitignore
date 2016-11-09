@@ -3,3 +3,4 @@ notMNIST_small*
 .DS_Store
 .ipynb_checkpoints/
 Dockerfile
+notMNIST.pickle
